@@ -1,0 +1,20 @@
+@import url(./reset.css);
+@import url(./font.css);
+@import url(./variable.css);
+@import url(./pages/header.css);
+@import url(./pages/footer.css);
+
+body::-webkit-scrollbar {
+    width: 6px; 
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #e16a00; 
+    border-radius: 4px; /
+}
+
+body::-webkit-scrollbar-track {
+    background-color: white; 
+    border-radius: 4px; /
+}
+

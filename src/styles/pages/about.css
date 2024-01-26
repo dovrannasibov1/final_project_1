@@ -1,0 +1,32 @@
+.sectionAbout {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    justify-content: space-around;
+    margin-bottom: 80px;
+padding: 60px;
+}
+
+.about-title {
+    color:  #241400;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 196.187%;
+}
+.left-about{
+    width: 520px;
+}
+.left-about p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+
+}
+
+.imgAb {
+    width: 480px;
+
+}
+
